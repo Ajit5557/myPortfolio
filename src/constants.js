@@ -125,8 +125,8 @@ export const SkillsInfo = [
       school: "Mumbai University",
       date: "(06/2017 - 10/2020)",
       grade: "6.90 CGPI",
-      desc: "I have completed my Bachelor of Science in Information Technology (BSIT) from Mumbai University. During my time at MU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at MU University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "Master of Computer Applications - MCA",
+      desc: "I have completed my Bachelor of Science in Information Technology (BSC IT) from Mumbai University. During my time, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Mumbai University has been instrumental in shaping my technical abilities and professional growth.",
+      degree: "Bachelor of Science in Information Technology",
     },
   
   ];
